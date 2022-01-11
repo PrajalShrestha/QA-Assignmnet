@@ -1,0 +1,14 @@
+{
+  "name": "ui_automation_cypress",
+  "version": "1.0.0",
+  "description": "Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajal Shrestha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}
